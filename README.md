@@ -27,11 +27,17 @@ The ALX ExploreAI Data Science Course is a comprehensive program designed to equ
 **Technologies and Tools**
 
 $  Programming Languages: Python
+
 $  Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
 $  Business Intelligence: Power BI
+
 $  Cloud Platform: AWS Cloud
+
 $  Database: SQL
+
 $  Version Control: Git and GitHub
+
 $  Other Tools: Jupyter Notebook, Google Colab, VScode
 
 **Curriculum Highlights**
@@ -60,28 +66,28 @@ To be Updated
 
 **Projects and Assignments**
 
-Exploratory Data Analysis (EDA): Cleaned and visualized real-world datasets.
-Predictive Modeling: Built machine learning models for classification and regression tasks.
-Power BI Dashboards: Designed dynamic dashboards for business intelligence reporting.
-AWS Cloud Tasks (Upcoming): Hands-on tasks to explore cloud computing.
-Capstone Project: [TBA].
-Note: Each project folder includes detailed explanations, datasets, and code files.
+*  Exploratory Data Analysis (EDA): Cleaned and visualized real-world datasets.
+*  Predictive Modeling: Built machine learning models for classification and regression tasks.
+*  Power BI Dashboards: Designed dynamic dashboards for business intelligence reporting.
+*  AWS Cloud Tasks (Upcoming): Hands-on tasks to explore cloud computing.
+*  Capstone Project: [TBA].
+*  Note: Each project folder includes detailed explanations, datasets, and code files.
 
 **Skills Acquired**
 
-Data cleaning and transformation.
-Exploratory Data Analysis (EDA).
-Machine Learning Model Development.
-Cloud Computing Basics with AWS.
-Interactive Dashboard Design with Power BI.
-Data visualization and storytelling.
-Version control and collaboration with Git.
+*  Data cleaning and transformation.
+*  Exploratory Data Analysis (EDA).
+*  Machine Learning Model Development.
+*  Cloud Computing Basics with AWS.
+*  Interactive Dashboard Design with Power BI.
+*  Data visualization and storytelling.
+*  Version control and collaboration with Git.
 
 **How to Use This Repository**
 
 Clone the repository:
-git clone https://github.com/DataMaven1/Alx-DataScience-Python.git
-cd Alx-DataScience-Python
+-  git clone https://github.com/DataMaven1/Alx-DataScience-Python.git
+-  cd Alx-DataScience-Python
 
 **Acknowledgments**
 
